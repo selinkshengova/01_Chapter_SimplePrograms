@@ -21,10 +21,9 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{598b3a12-99ef-49b9-bcea-c73205ec60d6}</ProjectGuid>
-    <RootNamespace>e03Numbers4kPlus3</RootNamespace>
+    <ProjectGuid>{56a54be1-eb7f-40f3-81f5-c66c1bc081c8}</ProjectGuid>
+    <RootNamespace>My05BinomialCoefficients</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>03_Numbers4kPlus3</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -124,7 +123,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="e03_Numbers4kPlus3.cpp" />
+    <ClCompile Include="05_BinomialCoefficients.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
