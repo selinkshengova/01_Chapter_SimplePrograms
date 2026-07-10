@@ -23,6 +23,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "12_SumOfNaturalNumber", "12
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "13_SumOfOddNaturalNumbers", "13_SumOfOddNaturalNumbers\13_SumOfOddNaturalNumbers.vcxproj", "{A9AAE254-E5B4-4AD2-8F0A-41EEF20FD464}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "14_EvenNumbersArray", "14_EvenNumbersArray\14_EvenNumbersArray.vcxproj", "{23FC50C9-2E11-4899-9FE2-13788BC05985}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -111,6 +113,14 @@ Global
 		{A9AAE254-E5B4-4AD2-8F0A-41EEF20FD464}.Release|x64.Build.0 = Release|x64
 		{A9AAE254-E5B4-4AD2-8F0A-41EEF20FD464}.Release|x86.ActiveCfg = Release|Win32
 		{A9AAE254-E5B4-4AD2-8F0A-41EEF20FD464}.Release|x86.Build.0 = Release|Win32
+		{23FC50C9-2E11-4899-9FE2-13788BC05985}.Debug|x64.ActiveCfg = Debug|x64
+		{23FC50C9-2E11-4899-9FE2-13788BC05985}.Debug|x64.Build.0 = Debug|x64
+		{23FC50C9-2E11-4899-9FE2-13788BC05985}.Debug|x86.ActiveCfg = Debug|Win32
+		{23FC50C9-2E11-4899-9FE2-13788BC05985}.Debug|x86.Build.0 = Debug|Win32
+		{23FC50C9-2E11-4899-9FE2-13788BC05985}.Release|x64.ActiveCfg = Release|x64
+		{23FC50C9-2E11-4899-9FE2-13788BC05985}.Release|x64.Build.0 = Release|x64
+		{23FC50C9-2E11-4899-9FE2-13788BC05985}.Release|x86.ActiveCfg = Release|Win32
+		{23FC50C9-2E11-4899-9FE2-13788BC05985}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
